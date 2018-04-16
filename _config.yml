@@ -1,0 +1,19 @@
+title:             MUNNDO CIENCIA
+email:             MUNDOCIENCIA18@GMAIL.COM
+description:       UNA WEB DEDICADA A DEFINIR LA CIENCIA
+author:            ADMIN
+baseurl:           ""
+url:               "http://mundociencia.gq"
+
+# Social Profiles
+twitter_username:  SBootstrap
+github_username:   FERNANDDO404PRO
+facebook_username: StartBootstrap
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
